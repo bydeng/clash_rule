@@ -12,7 +12,7 @@
 ;增强国外GFW：支持
 
 ;设置规则标志位
-ruleset=狮城节点,https://raw.githubusercontent.com/bydeng/clash_rule/main/sg_node
+ruleset=🇸🇬 狮城节点,https://raw.githubusercontent.com/bydeng/clash_rule/main/sg_node
 ruleset=🎯 全球直连,https://raw.githubusercontent.com/bydeng/clash_rule/main/dircet
 ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/LocalAreaNetwork.list
 ruleset=🎯 全球直连,https://raw.githubusercontent.com/YuanMoo/ClashCustomRule/master/speedtest.list
