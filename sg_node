@@ -1,2 +1,2 @@
 DOMAIN-SUFFIX,mypikpak.com
-GEOIP,telegram
+GEOIP,telegram,no-resolve
