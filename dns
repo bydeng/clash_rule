@@ -12,9 +12,10 @@
 ;增强国外GFW：支持
 
 ;设置规则标志位
+ruleset=🎯 全球直连,https://raw.githubusercontent.com/bydeng/clash_rule/main/dircet_IP
+ruleset=🎯 全球直连,https://raw.githubusercontent.com/bydeng/clash_rule/main/dircet_IP
 ruleset=🇺🇲 美国节点,https://raw.githubusercontent.com/bydeng/clash_rule/main/googleplay
 ruleset=🇸🇬 狮城节点,https://raw.githubusercontent.com/bydeng/clash_rule/main/sg_node
-ruleset=🎯 全球直连,https://raw.githubusercontent.com/bydeng/clash_rule/main/direct_DNS.list
 ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/LocalAreaNetwork.list
 ruleset=🎯 全球直连,https://raw.githubusercontent.com/YuanMoo/ClashCustomRule/master/speedtest.list
 ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/UnBan.list
