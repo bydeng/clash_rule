@@ -15,7 +15,6 @@ IP-CIDR,165.154.133.4/24,no-resolve
 IP-CIDR,23.105.197.40/24,no-resolve
 IP-CIDR,23.95.215.245/24,no-resolve
 IP-CIDR,154.12.53.36/24,no-resolve
-DOMAIN-SUFFIX,imgse.com
 IP-CIDR,156.251.176.131/24,no-resolve
 IP-CIDR,154.17.231.39/24,no-resolve
 IP-CIDR,47.242.104.123/24,no-resolve
